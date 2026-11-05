@@ -1,0 +1,45 @@
+/* A plain academic homepage: typography, spacing, and ordinary links. */
+html {
+  background: white;
+  color: #222;
+}
+
+body {
+  box-sizing: border-box;
+  max-width: 860px;
+  margin: 48px auto;
+  padding: 0 28px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  line-height: 1.25;
+  color: #111;
+}
+
+h1 { font-size: 2rem; margin: 0 0 1.1rem; }
+h2 { font-size: 1.35rem; margin: 2rem 0 0.8rem; clear: both; }
+h3 { font-size: 1.1rem; }
+p { margin: 0 0 1rem; }
+li { margin-bottom: 0.65rem; }
+ol, ul { padding-left: 1.5rem; }
+
+a { color: #075ca8; text-decoration: underline; text-underline-offset: 2px; }
+a:visited { color: #62428b; }
+a:hover { color: #003765; }
+a:focus-visible { outline: 2px solid #075ca8; outline-offset: 3px; }
+
+img { max-width: 100%; height: auto; }
+.portrait { float: right; width: 175px; margin: 0 0 1.3rem 2rem; }
+
+@media (max-width: 600px) {
+  body { margin: 28px auto; padding: 0 20px; font-size: 16px; }
+  .portrait { float: none; display: block; width: 145px; margin: 0 0 1.2rem; }
+}
+
+@media print {
+  body { max-width: none; margin: 0; padding: 0; font-size: 11pt; }
+  a, a:visited { color: inherit; }
+}

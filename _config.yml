@@ -1,0 +1,10 @@
+title: "Academic homepage"
+description: "Research, papers, and teaching."
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - README.md

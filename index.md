@@ -9,7 +9,7 @@ I am a PhD student in math at the [University of Chicago](https://mathematics.uc
 
 My research is in probability theory and random geometry. I am especially interested in the metric geometry of continuum random spaces arising as scaling limits of discrete random structures. During my PhD, I have primarily worked on Liouville quantum gravity.
 
-I did my undergrad degree at [MIT](https://www.mit.edu/), where I majored in [Mathematics with Computer Science (18C)](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) and [Philosophy (24-1)](https://philosophy.mit.edu/).
+I did my undergrad degree at [MIT](https://www.mit.edu/), where I majored in [Mathematics with Computer Science (18-C)](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) and [Philosophy (24-1)](https://philosophy.mit.edu/).
 
 **Email:** bcharper@uchicago.edu  
 **Office:** Eckhart 110-A

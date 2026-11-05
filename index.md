@@ -5,11 +5,11 @@ title: "Brin Harper"
 
 <img src="files/photo.jpg" alt="photo of brin" class="portrait">
 
-I am a PhD student in math at the [University of Chicago](https://mathematics.uchicago.edu/), advised by [Ewain Gwynne](https://math.uchicago.edu/~ewain/).
+I am a PhD student in math at the [University of Chicago](https://mathematics.uchicago.edu/), where I am very fortunate to be advised by [Ewain Gwynne](https://math.uchicago.edu/~ewain/).
 
 My research is in probability theory and random geometry. I am especially interested in the metric structure of continuum random geometries arising as scaling limits of discrete random systems. During my PhD, I have primarily worked on Liouville quantum gravity.
 
-I did my undergrad degree at MIT, where I majored in [Mathematics with Computer Science (18C)](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) and [Philosophy (24-1)](https://philosophy.mit.edu/).
+I did my undergrad degree at [MIT](https://www.mit.edu/), where I majored in [Mathematics with Computer Science (18C)](https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/) and [Philosophy (24-1)](https://philosophy.mit.edu/).
 
 **Email:** bcharper@uchicago.edu  
 **Office:** Eckhart 110-A

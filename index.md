@@ -36,3 +36,7 @@ My research is in probability theory and random geometry. I am especially intere
 - Spring 2024: Math 235 (Markov Chains, Martingales, and Brownian Motion), College Fellow
 - Winter 2024: Math 270 (Basic Complex Variables), College Fellow
 - Fall 2023: Math 207 (Honors Analysis in $\mathbb{R}^n$ I), College Fellow
+
+## Websites of friends
+
+[Catherine Li](https://catlimath.github.io/) · [Isabelle Steinmann](https://sites.google.com/view/isabellesteinmann/home) · [Katie Gravel](https://sites.google.com/view/katiegravel/home) · [Sanath Devalapurkar](https://sanathdevalapurkar.github.io/) · [Victor Hugo Almendra Hernandez](https://victoralmh.github.io/) · [Yuyang Feng](https://sites.google.com/view/yuyangfeng/home?authuser=0) · [Full list](https://mathematics.uchicago.edu/people/#graduate-students)

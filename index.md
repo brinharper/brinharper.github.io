@@ -21,6 +21,14 @@ My research is in probability theory and random geometry. I am especially intere
 1. **Dimension lower bounds in random geometry via Lipschitz functions**, with [Manan Bhatia](https://mananbhatia1701.github.io/manan/) and [Ewain Gwynne](https://math.uchicago.edu/~ewain/). preprint, 2026.
    [arXiv](https://arxiv.org/pdf/2606.10496)
 
+## Talks and posters (recent and upcoming)
+
+ - [Workshop on Random Metric Spaces](https://www.math.uestc.edu.cn/info/1252/10320.htm), University of Electronic Science and Technology of China, Chengdu, China, January 2027 (invited talk)
+ - [Workshop on Discrete and Continuous Random Trees](https://randomtrees.matem.unam.mx/), Universidad Nacional Autónoma de México, Mexico City, Mexico, October 2026 (short talk)
+ - [Workshop on Random Explorations](https://www.imsi.institute/activities/random-explorations/), Institute for Mathematical and Statistical Innovation, Chicago, IL, USA, July 2026 (poster)
+ - [Peking Summer Program in Probability](https://faculty.bicmr.pku.edu.cn/~xinsun/program2026.html), Peking University, Beijing, China, June 2026 (poster)
+ - [Seminar on Stochastic Processes](https://www.math.union.edu/~marianop/SSP2026/), Union College, Schenectady, NY, USA, March 2026 (lightning talk + poster)
+
 <!--
 ## Teaching
 

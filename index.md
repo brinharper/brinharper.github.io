@@ -18,7 +18,7 @@ My research is in probability theory and random geometry. I am especially intere
 
 ## Papers
 
-1. **Dimension lower bounds in random geometry via Lipschitz functions**, with [Manan Bhatia](https://mananbhatia1701.github.io/manan/) and [Ewain Gwynne](https://math.uchicago.edu/~ewain/). preprint, 2026.
+1. **Dimension lower bounds in random geometry via Lipschitz functions**, with [Manan Bhatia](https://mananbhatia1701.github.io/manan/) and [Ewain Gwynne](https://math.uchicago.edu/~ewain/). Preprint, 2026.
    [arXiv](https://arxiv.org/pdf/2606.10496)
 
 ## Talks and posters (recent and upcoming)
@@ -29,15 +29,10 @@ My research is in probability theory and random geometry. I am especially intere
  - [Peking Summer Program in Probability](https://faculty.bicmr.pku.edu.cn/~xinsun/program2026.html), Peking University, Beijing, China, June 2026 (poster)
  - [Seminar on Stochastic Processes](https://www.math.union.edu/~marianop/SSP2026/), Union College, Schenectady, NY, USA, March 2026 (lightning talk + poster)
 
-<!--
+
 ## Teaching
 
-- [Term and year]: [Course title], [teaching role].
-
-<!-- Optional extra section:
-
-## Notes
-
-- [Title of expository notes](files/notes.pdf)
-
--->
+- Fall 2025: Math 152 (Calculus II), Instructor of Record
+- Spring 2024: Math 235 (Markov Chains, Martingales, and Brownian Motion), College Fellow
+- Winter 2024: Math 270 (Basic Complex Variables), College Fellow
+- Fall 2023: Math 207 (Honors Analysis in $\mathbb{R}^n$ I), College Fellow

@@ -39,4 +39,4 @@ My research is in probability theory and random geometry. I am especially intere
 
 ## Websites of friends
 
-[Catherine Li](https://catlimath.github.io/) · [Isabelle Steinmann](https://sites.google.com/view/isabellesteinmann/home) · [Katie Gravel](https://sites.google.com/view/katiegravel/home) · [Sanath Devalapurkar](https://sanathdevalapurkar.github.io/) · [Victor Hugo Almendra Hernandez](https://victoralmh.github.io/) · [Yuyang Feng](https://sites.google.com/view/yuyangfeng/home?authuser=0) · [Full list](https://mathematics.uchicago.edu/people/#graduate-students)
+[Catherine Li](https://catlimath.github.io/) · [Isabelle Steinmann](https://sites.google.com/view/isabellesteinmann/home) · [Katie Gravel](https://sites.google.com/view/katiegravel/home) · [Sanath Devalapurkar](https://sanathdevalapurkar.github.io/) · [Víctor Hugo Almendra Hernández](https://victoralmh.github.io/) · [Yuyang Feng](https://sites.google.com/view/yuyangfeng/home?authuser=0) · [Full list](https://mathematics.uchicago.edu/people/#graduate-students)

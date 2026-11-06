@@ -16,8 +16,22 @@ I did my undergrad degree at [MIT](https://www.mit.edu/), where I majored in [Ma
 
 ## Papers
 
-1. **Dimension lower bounds in random geometry via Lipschitz functions**, with [Manan Bhatia](https://mananbhatia1701.github.io/manan/) and [Ewain Gwynne](https://math.uchicago.edu/~ewain/). Preprint, 2026.
+1. **Dimension lower bounds in random geometry via Lipschitz functions**, with [M. Bhatia](https://mananbhatia1701.github.io/manan/) and [E. Gwynne](https://math.uchicago.edu/~ewain/). Preprint, 2026.
    [arXiv](https://arxiv.org/pdf/2606.10496)
+
+## In Preparation
+
+1. **The set of 3-stars in Liouville quantum gravity has dimension 2**. In preparation.
+   <details>
+      <summary>Details</summary>
+      <p>We prove that the set of 3-stars in Liouville quantum gravity has LQG Hausdorff 
+         dimension 2 for all $\gamma \in (0,2)$. We also show that the set of boundary 
+         2-stars has dimension 1 for all $\gamma \in (0,2)$. Our arguments extend to a 
+         general class of coalescent length metrics.
+      </p>
+   </details>
+   
+2. **Geodesics on higher-genus Liouville quantum gravity surfaces**, with A. Contreras Hip. In preparation.
 
 ## Talks and posters
 
